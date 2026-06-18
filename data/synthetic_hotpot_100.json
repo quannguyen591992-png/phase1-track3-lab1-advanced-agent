@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "syn001",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is associated with the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn002",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Marie Curie was born?",
+    "gold_answer": "Vistula River",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was born in Warsaw."
+      },
+      {
+        "title": "Warsaw",
+        "text": "Warsaw is associated with the Vistula River."
+      }
+    ]
+  },
+  {
+    "qid": "syn003",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Albert Einstein was born?",
+    "gold_answer": "Danube River",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was born in Ulm."
+      },
+      {
+        "title": "Ulm",
+        "text": "Ulm is associated with the Danube River."
+      }
+    ]
+  },
+  {
+    "qid": "syn004",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Leonardo da Vinci was born?",
+    "gold_answer": "Arno River",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was born in Vinci."
+      },
+      {
+        "title": "Vinci",
+        "text": "Vinci is associated with the Arno River."
+      }
+    ]
+  },
+  {
+    "qid": "syn005",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Frida Kahlo was born?",
+    "gold_answer": "Magdalena River",
+    "context": [
+      {
+        "title": "Frida Kahlo",
+        "text": "Frida Kahlo was born in Coyoacan."
+      },
+      {
+        "title": "Coyoacan",
+        "text": "Coyoacan is associated with the Magdalena River."
+      }
+    ]
+  },
+  {
+    "qid": "syn006",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Nikola Tesla was born?",
+    "gold_answer": "Lika River",
+    "context": [
+      {
+        "title": "Nikola Tesla",
+        "text": "Nikola Tesla was born in Smiljan."
+      },
+      {
+        "title": "Smiljan",
+        "text": "Smiljan is associated with the Lika River."
+      }
+    ]
+  },
+  {
+    "qid": "syn007",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Grace Hopper was born?",
+    "gold_answer": "Hudson River",
+    "context": [
+      {
+        "title": "Grace Hopper",
+        "text": "Grace Hopper was born in New York City."
+      },
+      {
+        "title": "New York City",
+        "text": "New York City is associated with the Hudson River."
+      }
+    ]
+  },
+  {
+    "qid": "syn008",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Alan Turing was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is associated with the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn009",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Katherine Johnson was born?",
+    "gold_answer": "Greenbrier River",
+    "context": [
+      {
+        "title": "Katherine Johnson",
+        "text": "Katherine Johnson was born in White Sulphur Springs."
+      },
+      {
+        "title": "White Sulphur Springs",
+        "text": "White Sulphur Springs is associated with the Greenbrier River."
+      }
+    ]
+  },
+  {
+    "qid": "syn010",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Charles Darwin was born?",
+    "gold_answer": "River Severn",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was born in Shrewsbury."
+      },
+      {
+        "title": "Shrewsbury",
+        "text": "Shrewsbury is associated with the River Severn."
+      }
+    ]
+  },
+  {
+    "qid": "syn011",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Rosalind Franklin was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Rosalind Franklin",
+        "text": "Rosalind Franklin was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is associated with the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn012",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Isaac Newton was born?",
+    "gold_answer": "River Witham",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was born in Woolsthorpe."
+      },
+      {
+        "title": "Woolsthorpe",
+        "text": "Woolsthorpe is associated with the River Witham."
+      }
+    ]
+  },
+  {
+    "qid": "syn013",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Galileo Galilei was born?",
+    "gold_answer": "Arno River",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was born in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the Arno River."
+      }
+    ]
+  },
+  {
+    "qid": "syn014",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Jane Austen was born?",
+    "gold_answer": "River Test",
+    "context": [
+      {
+        "title": "Jane Austen",
+        "text": "Jane Austen was born in Steventon."
+      },
+      {
+        "title": "Steventon",
+        "text": "Steventon is associated with the River Test."
+      }
+    ]
+  },
+  {
+    "qid": "syn015",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where William Shakespeare was born?",
+    "gold_answer": "River Avon",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was born in Stratford-upon-Avon."
+      },
+      {
+        "title": "Stratford-upon-Avon",
+        "text": "Stratford-upon-Avon is associated with the River Avon."
+      }
+    ]
+  },
+  {
+    "qid": "syn016",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Virginia Woolf was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Virginia Woolf",
+        "text": "Virginia Woolf was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is associated with the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn017",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Mark Twain was born?",
+    "gold_answer": "Mississippi River",
+    "context": [
+      {
+        "title": "Mark Twain",
+        "text": "Mark Twain was born in Florida Missouri."
+      },
+      {
+        "title": "Florida Missouri",
+        "text": "Florida Missouri is associated with the Mississippi River."
+      }
+    ]
+  },
+  {
+    "qid": "syn018",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Toni Morrison was born?",
+    "gold_answer": "Black River",
+    "context": [
+      {
+        "title": "Toni Morrison",
+        "text": "Toni Morrison was born in Lorain."
+      },
+      {
+        "title": "Lorain",
+        "text": "Lorain is associated with the Black River."
+      }
+    ]
+  },
+  {
+    "qid": "syn019",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Pablo Picasso was born?",
+    "gold_answer": "Guadalmedina River",
+    "context": [
+      {
+        "title": "Pablo Picasso",
+        "text": "Pablo Picasso was born in Malaga."
+      },
+      {
+        "title": "Malaga",
+        "text": "Malaga is associated with the Guadalmedina River."
+      }
+    ]
+  },
+  {
+    "qid": "syn020",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Claude Monet was born?",
+    "gold_answer": "Seine River",
+    "context": [
+      {
+        "title": "Claude Monet",
+        "text": "Claude Monet was born in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the Seine River."
+      }
+    ]
+  },
+  {
+    "qid": "syn021",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Ludwig van Beethoven was born?",
+    "gold_answer": "Rhine River",
+    "context": [
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was born in Bonn."
+      },
+      {
+        "title": "Bonn",
+        "text": "Bonn is associated with the Rhine River."
+      }
+    ]
+  },
+  {
+    "qid": "syn022",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Wolfgang Mozart was born?",
+    "gold_answer": "Salzach River",
+    "context": [
+      {
+        "title": "Wolfgang Mozart",
+        "text": "Wolfgang Mozart was born in Salzburg."
+      },
+      {
+        "title": "Salzburg",
+        "text": "Salzburg is associated with the Salzach River."
+      }
+    ]
+  },
+  {
+    "qid": "syn023",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Johann Bach was born?",
+    "gold_answer": "Werra River",
+    "context": [
+      {
+        "title": "Johann Bach",
+        "text": "Johann Bach was born in Eisenach."
+      },
+      {
+        "title": "Eisenach",
+        "text": "Eisenach is associated with the Werra River."
+      }
+    ]
+  },
+  {
+    "qid": "syn024",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Frederic Chopin was born?",
+    "gold_answer": "Utrata River",
+    "context": [
+      {
+        "title": "Frederic Chopin",
+        "text": "Frederic Chopin was born in Zelazowa Wola."
+      },
+      {
+        "title": "Zelazowa Wola",
+        "text": "Zelazowa Wola is associated with the Utrata River."
+      }
+    ]
+  },
+  {
+    "qid": "syn025",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Pyotr Tchaikovsky was born?",
+    "gold_answer": "Votka River",
+    "context": [
+      {
+        "title": "Pyotr Tchaikovsky",
+        "text": "Pyotr Tchaikovsky was born in Votkinsk."
+      },
+      {
+        "title": "Votkinsk",
+        "text": "Votkinsk is associated with the Votka River."
+      }
+    ]
+  },
+  {
+    "qid": "syn026",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Lima",
+        "text": "Lima is the capital of Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru is associated with the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn027",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Kathmandu",
+        "text": "Kathmandu is the capital of Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Nepal is associated with the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "syn028",
+    "difficulty": "hard",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Cairo?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital of Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is associated with the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn029",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Tokyo?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is associated with the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn030",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Ottawa?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital of Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "Canada is associated with the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn031",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Canberra?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Canberra",
+        "text": "Canberra is the capital of Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is associated with the Indian Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn032",
+    "difficulty": "hard",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Brasilia?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Brasilia",
+        "text": "Brasilia is the capital of Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is associated with the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn033",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Nairobi?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Nairobi",
+        "text": "Nairobi is the capital of Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya is associated with the Indian Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn034",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Oslo?",
+    "gold_answer": "North Sea",
+    "context": [
+      {
+        "title": "Oslo",
+        "text": "Oslo is the capital of Norway."
+      },
+      {
+        "title": "Norway",
+        "text": "Norway is associated with the North Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn035",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Helsinki?",
+    "gold_answer": "Baltic Sea",
+    "context": [
+      {
+        "title": "Helsinki",
+        "text": "Helsinki is the capital of Finland."
+      },
+      {
+        "title": "Finland",
+        "text": "Finland is associated with the Baltic Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn036",
+    "difficulty": "hard",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Lisbon?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Lisbon",
+        "text": "Lisbon is the capital of Portugal."
+      },
+      {
+        "title": "Portugal",
+        "text": "Portugal is associated with the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn037",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Madrid?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital of Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spain is associated with the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn038",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Athens?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Athens",
+        "text": "Athens is the capital of Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece is associated with the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn039",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Amman?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Amman",
+        "text": "Amman is the capital of Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan is associated with the Dead Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn040",
+    "difficulty": "hard",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Rabat?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Rabat",
+        "text": "Rabat is the capital of Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco is associated with the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn041",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Santiago?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Santiago",
+        "text": "Santiago is the capital of Chile."
+      },
+      {
+        "title": "Chile",
+        "text": "Chile is associated with the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn042",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Quito?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Quito",
+        "text": "Quito is the capital of Ecuador."
+      },
+      {
+        "title": "Ecuador",
+        "text": "Ecuador is associated with the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn043",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Bogota?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Bogota",
+        "text": "Bogota is the capital of Colombia."
+      },
+      {
+        "title": "Colombia",
+        "text": "Colombia is associated with the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn044",
+    "difficulty": "hard",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Hanoi?",
+    "gold_answer": "South China Sea",
+    "context": [
+      {
+        "title": "Hanoi",
+        "text": "Hanoi is the capital of Vietnam."
+      },
+      {
+        "title": "Vietnam",
+        "text": "Vietnam is associated with the South China Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn045",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Bangkok?",
+    "gold_answer": "Gulf of Thailand",
+    "context": [
+      {
+        "title": "Bangkok",
+        "text": "Bangkok is the capital of Thailand."
+      },
+      {
+        "title": "Thailand",
+        "text": "Thailand is associated with the Gulf of Thailand."
+      }
+    ]
+  },
+  {
+    "qid": "syn046",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Seoul?",
+    "gold_answer": "Yellow Sea",
+    "context": [
+      {
+        "title": "Seoul",
+        "text": "Seoul is the capital of South Korea."
+      },
+      {
+        "title": "South Korea",
+        "text": "South Korea is associated with the Yellow Sea."
+      }
+    ]
+  },
+  {
+    "qid": "syn047",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Beijing?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Beijing",
+        "text": "Beijing is the capital of China."
+      },
+      {
+        "title": "China",
+        "text": "China is associated with the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn048",
+    "difficulty": "hard",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Wellington?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Wellington",
+        "text": "Wellington is the capital of New Zealand."
+      },
+      {
+        "title": "New Zealand",
+        "text": "New Zealand is associated with the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn049",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Reykjavik?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Reykjavik",
+        "text": "Reykjavik is the capital of Iceland."
+      },
+      {
+        "title": "Iceland",
+        "text": "Iceland is associated with the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn050",
+    "difficulty": "medium",
+    "question": "What major body of water or mountain range is associated with the country whose capital is Dublin?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Dublin",
+        "text": "Dublin is the capital of Ireland."
+      },
+      {
+        "title": "Ireland",
+        "text": "Ireland is associated with the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "syn051",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of The Hobbit?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "The Hobbit",
+        "text": "The Hobbit was created by J. R. R. Tolkien."
+      },
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien is associated with Oxford University."
+      }
+    ]
+  },
+  {
+    "qid": "syn052",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of The Four Seasons?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons was created by Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi is associated with violin."
+      }
+    ]
+  },
+  {
+    "qid": "syn053",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of Pride and Prejudice?",
+    "gold_answer": "novel",
+    "context": [
+      {
+        "title": "Pride and Prejudice",
+        "text": "Pride and Prejudice was created by Jane Austen."
+      },
+      {
+        "title": "Jane Austen",
+        "text": "Jane Austen is associated with novel."
+      }
+    ]
+  },
+  {
+    "qid": "syn054",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of Hamlet?",
+    "gold_answer": "playwright",
+    "context": [
+      {
+        "title": "Hamlet",
+        "text": "Hamlet was created by William Shakespeare."
+      },
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare is associated with playwright."
+      }
+    ]
+  },
+  {
+    "qid": "syn055",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of Beloved?",
+    "gold_answer": "literature",
+    "context": [
+      {
+        "title": "Beloved",
+        "text": "Beloved was created by Toni Morrison."
+      },
+      {
+        "title": "Toni Morrison",
+        "text": "Toni Morrison is associated with literature."
+      }
+    ]
+  },
+  {
+    "qid": "syn056",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of A Brief History of Time?",
+    "gold_answer": "cosmology",
+    "context": [
+      {
+        "title": "A Brief History of Time",
+        "text": "A Brief History of Time was created by Stephen Hawking."
+      },
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking is associated with cosmology."
+      }
+    ]
+  },
+  {
+    "qid": "syn057",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of The Origin of Species?",
+    "gold_answer": "evolution",
+    "context": [
+      {
+        "title": "The Origin of Species",
+        "text": "The Origin of Species was created by Charles Darwin."
+      },
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin is associated with evolution."
+      }
+    ]
+  },
+  {
+    "qid": "syn058",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of Guernica?",
+    "gold_answer": "painting",
+    "context": [
+      {
+        "title": "Guernica",
+        "text": "Guernica was created by Pablo Picasso."
+      },
+      {
+        "title": "Pablo Picasso",
+        "text": "Pablo Picasso is associated with painting."
+      }
+    ]
+  },
+  {
+    "qid": "syn059",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of Water Lilies?",
+    "gold_answer": "painting",
+    "context": [
+      {
+        "title": "Water Lilies",
+        "text": "Water Lilies was created by Claude Monet."
+      },
+      {
+        "title": "Claude Monet",
+        "text": "Claude Monet is associated with painting."
+      }
+    ]
+  },
+  {
+    "qid": "syn060",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of Moonlight Sonata?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Moonlight Sonata",
+        "text": "Moonlight Sonata was created by Ludwig van Beethoven."
+      },
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven is associated with piano."
+      }
+    ]
+  },
+  {
+    "qid": "syn061",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of The Magic Flute?",
+    "gold_answer": "opera",
+    "context": [
+      {
+        "title": "The Magic Flute",
+        "text": "The Magic Flute was created by Wolfgang Mozart."
+      },
+      {
+        "title": "Wolfgang Mozart",
+        "text": "Wolfgang Mozart is associated with opera."
+      }
+    ]
+  },
+  {
+    "qid": "syn062",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of The Art of Fugue?",
+    "gold_answer": "counterpoint",
+    "context": [
+      {
+        "title": "The Art of Fugue",
+        "text": "The Art of Fugue was created by Johann Bach."
+      },
+      {
+        "title": "Johann Bach",
+        "text": "Johann Bach is associated with counterpoint."
+      }
+    ]
+  },
+  {
+    "qid": "syn063",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of Nocturnes?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Nocturnes",
+        "text": "Nocturnes was created by Frederic Chopin."
+      },
+      {
+        "title": "Frederic Chopin",
+        "text": "Frederic Chopin is associated with piano."
+      }
+    ]
+  },
+  {
+    "qid": "syn064",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of Swan Lake?",
+    "gold_answer": "ballet",
+    "context": [
+      {
+        "title": "Swan Lake",
+        "text": "Swan Lake was created by Pyotr Tchaikovsky."
+      },
+      {
+        "title": "Pyotr Tchaikovsky",
+        "text": "Pyotr Tchaikovsky is associated with ballet."
+      }
+    ]
+  },
+  {
+    "qid": "syn065",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of Mrs Dalloway?",
+    "gold_answer": "modernist fiction",
+    "context": [
+      {
+        "title": "Mrs Dalloway",
+        "text": "Mrs Dalloway was created by Virginia Woolf."
+      },
+      {
+        "title": "Virginia Woolf",
+        "text": "Virginia Woolf is associated with modernist fiction."
+      }
+    ]
+  },
+  {
+    "qid": "syn066",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of The Adventures of Tom Sawyer?",
+    "gold_answer": "novel",
+    "context": [
+      {
+        "title": "The Adventures of Tom Sawyer",
+        "text": "The Adventures of Tom Sawyer was created by Mark Twain."
+      },
+      {
+        "title": "Mark Twain",
+        "text": "Mark Twain is associated with novel."
+      }
+    ]
+  },
+  {
+    "qid": "syn067",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of The Tale of Genji?",
+    "gold_answer": "Japanese literature",
+    "context": [
+      {
+        "title": "The Tale of Genji",
+        "text": "The Tale of Genji was created by Murasaki Shikibu."
+      },
+      {
+        "title": "Murasaki Shikibu",
+        "text": "Murasaki Shikibu is associated with Japanese literature."
+      }
+    ]
+  },
+  {
+    "qid": "syn068",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of Don Quixote?",
+    "gold_answer": "Spanish literature",
+    "context": [
+      {
+        "title": "Don Quixote",
+        "text": "Don Quixote was created by Miguel de Cervantes."
+      },
+      {
+        "title": "Miguel de Cervantes",
+        "text": "Miguel de Cervantes is associated with Spanish literature."
+      }
+    ]
+  },
+  {
+    "qid": "syn069",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of Things Fall Apart?",
+    "gold_answer": "novel",
+    "context": [
+      {
+        "title": "Things Fall Apart",
+        "text": "Things Fall Apart was created by Chinua Achebe."
+      },
+      {
+        "title": "Chinua Achebe",
+        "text": "Chinua Achebe is associated with novel."
+      }
+    ]
+  },
+  {
+    "qid": "syn070",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of The Stranger?",
+    "gold_answer": "philosophy",
+    "context": [
+      {
+        "title": "The Stranger",
+        "text": "The Stranger was created by Albert Camus."
+      },
+      {
+        "title": "Albert Camus",
+        "text": "Albert Camus is associated with philosophy."
+      }
+    ]
+  },
+  {
+    "qid": "syn071",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of One Hundred Years of Solitude?",
+    "gold_answer": "magical realism",
+    "context": [
+      {
+        "title": "One Hundred Years of Solitude",
+        "text": "One Hundred Years of Solitude was created by Gabriel Garcia Marquez."
+      },
+      {
+        "title": "Gabriel Garcia Marquez",
+        "text": "Gabriel Garcia Marquez is associated with magical realism."
+      }
+    ]
+  },
+  {
+    "qid": "syn072",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of The Republic?",
+    "gold_answer": "philosophy",
+    "context": [
+      {
+        "title": "The Republic",
+        "text": "The Republic was created by Plato."
+      },
+      {
+        "title": "Plato",
+        "text": "Plato is associated with philosophy."
+      }
+    ]
+  },
+  {
+    "qid": "syn073",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of Mona Lisa?",
+    "gold_answer": "painting",
+    "context": [
+      {
+        "title": "Mona Lisa",
+        "text": "Mona Lisa was created by Leonardo da Vinci."
+      },
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci is associated with painting."
+      }
+    ]
+  },
+  {
+    "qid": "syn074",
+    "difficulty": "medium",
+    "question": "What field, role, or instrument is associated with the creator of The Persistence of Memory?",
+    "gold_answer": "surrealism",
+    "context": [
+      {
+        "title": "The Persistence of Memory",
+        "text": "The Persistence of Memory was created by Salvador Dali."
+      },
+      {
+        "title": "Salvador Dali",
+        "text": "Salvador Dali is associated with surrealism."
+      }
+    ]
+  },
+  {
+    "qid": "syn075",
+    "difficulty": "easy",
+    "question": "What field, role, or instrument is associated with the creator of The Nutcracker?",
+    "gold_answer": "ballet",
+    "context": [
+      {
+        "title": "The Nutcracker",
+        "text": "The Nutcracker was created by Pyotr Tchaikovsky."
+      },
+      {
+        "title": "Pyotr Tchaikovsky",
+        "text": "Pyotr Tchaikovsky is associated with ballet."
+      }
+    ]
+  },
+  {
+    "qid": "syn076",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 76: which river is linked to the birthplace of Marie Curie?",
+    "gold_answer": "Vistula River",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was born in Warsaw."
+      },
+      {
+        "title": "Warsaw",
+        "text": "Warsaw is linked to the Vistula River."
+      }
+    ]
+  },
+  {
+    "qid": "syn077",
+    "difficulty": "hard",
+    "question": "Synthetic multi-hop check 77: which river is linked to the birthplace of Albert Einstein?",
+    "gold_answer": "Danube River",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was born in Ulm."
+      },
+      {
+        "title": "Ulm",
+        "text": "Ulm is linked to the Danube River."
+      }
+    ]
+  },
+  {
+    "qid": "syn078",
+    "difficulty": "easy",
+    "question": "Synthetic multi-hop check 78: which river is linked to the birthplace of Leonardo da Vinci?",
+    "gold_answer": "Arno River",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was born in Vinci."
+      },
+      {
+        "title": "Vinci",
+        "text": "Vinci is linked to the Arno River."
+      }
+    ]
+  },
+  {
+    "qid": "syn079",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 79: which river is linked to the birthplace of Frida Kahlo?",
+    "gold_answer": "Magdalena River",
+    "context": [
+      {
+        "title": "Frida Kahlo",
+        "text": "Frida Kahlo was born in Coyoacan."
+      },
+      {
+        "title": "Coyoacan",
+        "text": "Coyoacan is linked to the Magdalena River."
+      }
+    ]
+  },
+  {
+    "qid": "syn080",
+    "difficulty": "hard",
+    "question": "Synthetic multi-hop check 80: which river is linked to the birthplace of Nikola Tesla?",
+    "gold_answer": "Lika River",
+    "context": [
+      {
+        "title": "Nikola Tesla",
+        "text": "Nikola Tesla was born in Smiljan."
+      },
+      {
+        "title": "Smiljan",
+        "text": "Smiljan is linked to the Lika River."
+      }
+    ]
+  },
+  {
+    "qid": "syn081",
+    "difficulty": "easy",
+    "question": "Synthetic multi-hop check 81: which river is linked to the birthplace of Grace Hopper?",
+    "gold_answer": "Hudson River",
+    "context": [
+      {
+        "title": "Grace Hopper",
+        "text": "Grace Hopper was born in New York City."
+      },
+      {
+        "title": "New York City",
+        "text": "New York City is linked to the Hudson River."
+      }
+    ]
+  },
+  {
+    "qid": "syn082",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 82: which river is linked to the birthplace of Alan Turing?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is linked to the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn083",
+    "difficulty": "hard",
+    "question": "Synthetic multi-hop check 83: which river is linked to the birthplace of Katherine Johnson?",
+    "gold_answer": "Greenbrier River",
+    "context": [
+      {
+        "title": "Katherine Johnson",
+        "text": "Katherine Johnson was born in White Sulphur Springs."
+      },
+      {
+        "title": "White Sulphur Springs",
+        "text": "White Sulphur Springs is linked to the Greenbrier River."
+      }
+    ]
+  },
+  {
+    "qid": "syn084",
+    "difficulty": "easy",
+    "question": "Synthetic multi-hop check 84: which river is linked to the birthplace of Charles Darwin?",
+    "gold_answer": "River Severn",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was born in Shrewsbury."
+      },
+      {
+        "title": "Shrewsbury",
+        "text": "Shrewsbury is linked to the River Severn."
+      }
+    ]
+  },
+  {
+    "qid": "syn085",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 85: which river is linked to the birthplace of Rosalind Franklin?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Rosalind Franklin",
+        "text": "Rosalind Franklin was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is linked to the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn086",
+    "difficulty": "hard",
+    "question": "Synthetic multi-hop check 86: which river is linked to the birthplace of Isaac Newton?",
+    "gold_answer": "River Witham",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was born in Woolsthorpe."
+      },
+      {
+        "title": "Woolsthorpe",
+        "text": "Woolsthorpe is linked to the River Witham."
+      }
+    ]
+  },
+  {
+    "qid": "syn087",
+    "difficulty": "easy",
+    "question": "Synthetic multi-hop check 87: which river is linked to the birthplace of Galileo Galilei?",
+    "gold_answer": "Arno River",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was born in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is linked to the Arno River."
+      }
+    ]
+  },
+  {
+    "qid": "syn088",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 88: which river is linked to the birthplace of Jane Austen?",
+    "gold_answer": "River Test",
+    "context": [
+      {
+        "title": "Jane Austen",
+        "text": "Jane Austen was born in Steventon."
+      },
+      {
+        "title": "Steventon",
+        "text": "Steventon is linked to the River Test."
+      }
+    ]
+  },
+  {
+    "qid": "syn089",
+    "difficulty": "hard",
+    "question": "Synthetic multi-hop check 89: which river is linked to the birthplace of William Shakespeare?",
+    "gold_answer": "River Avon",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was born in Stratford-upon-Avon."
+      },
+      {
+        "title": "Stratford-upon-Avon",
+        "text": "Stratford-upon-Avon is linked to the River Avon."
+      }
+    ]
+  },
+  {
+    "qid": "syn090",
+    "difficulty": "easy",
+    "question": "Synthetic multi-hop check 90: which river is linked to the birthplace of Virginia Woolf?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Virginia Woolf",
+        "text": "Virginia Woolf was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is linked to the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn091",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 91: which river is linked to the birthplace of Mark Twain?",
+    "gold_answer": "Mississippi River",
+    "context": [
+      {
+        "title": "Mark Twain",
+        "text": "Mark Twain was born in Florida Missouri."
+      },
+      {
+        "title": "Florida Missouri",
+        "text": "Florida Missouri is linked to the Mississippi River."
+      }
+    ]
+  },
+  {
+    "qid": "syn092",
+    "difficulty": "hard",
+    "question": "Synthetic multi-hop check 92: which river is linked to the birthplace of Toni Morrison?",
+    "gold_answer": "Black River",
+    "context": [
+      {
+        "title": "Toni Morrison",
+        "text": "Toni Morrison was born in Lorain."
+      },
+      {
+        "title": "Lorain",
+        "text": "Lorain is linked to the Black River."
+      }
+    ]
+  },
+  {
+    "qid": "syn093",
+    "difficulty": "easy",
+    "question": "Synthetic multi-hop check 93: which river is linked to the birthplace of Pablo Picasso?",
+    "gold_answer": "Guadalmedina River",
+    "context": [
+      {
+        "title": "Pablo Picasso",
+        "text": "Pablo Picasso was born in Malaga."
+      },
+      {
+        "title": "Malaga",
+        "text": "Malaga is linked to the Guadalmedina River."
+      }
+    ]
+  },
+  {
+    "qid": "syn094",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 94: which river is linked to the birthplace of Claude Monet?",
+    "gold_answer": "Seine River",
+    "context": [
+      {
+        "title": "Claude Monet",
+        "text": "Claude Monet was born in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is linked to the Seine River."
+      }
+    ]
+  },
+  {
+    "qid": "syn095",
+    "difficulty": "hard",
+    "question": "Synthetic multi-hop check 95: which river is linked to the birthplace of Ludwig van Beethoven?",
+    "gold_answer": "Rhine River",
+    "context": [
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was born in Bonn."
+      },
+      {
+        "title": "Bonn",
+        "text": "Bonn is linked to the Rhine River."
+      }
+    ]
+  },
+  {
+    "qid": "syn096",
+    "difficulty": "easy",
+    "question": "Synthetic multi-hop check 96: which river is linked to the birthplace of Wolfgang Mozart?",
+    "gold_answer": "Salzach River",
+    "context": [
+      {
+        "title": "Wolfgang Mozart",
+        "text": "Wolfgang Mozart was born in Salzburg."
+      },
+      {
+        "title": "Salzburg",
+        "text": "Salzburg is linked to the Salzach River."
+      }
+    ]
+  },
+  {
+    "qid": "syn097",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 97: which river is linked to the birthplace of Johann Bach?",
+    "gold_answer": "Werra River",
+    "context": [
+      {
+        "title": "Johann Bach",
+        "text": "Johann Bach was born in Eisenach."
+      },
+      {
+        "title": "Eisenach",
+        "text": "Eisenach is linked to the Werra River."
+      }
+    ]
+  },
+  {
+    "qid": "syn098",
+    "difficulty": "hard",
+    "question": "Synthetic multi-hop check 98: which river is linked to the birthplace of Frederic Chopin?",
+    "gold_answer": "Utrata River",
+    "context": [
+      {
+        "title": "Frederic Chopin",
+        "text": "Frederic Chopin was born in Zelazowa Wola."
+      },
+      {
+        "title": "Zelazowa Wola",
+        "text": "Zelazowa Wola is linked to the Utrata River."
+      }
+    ]
+  },
+  {
+    "qid": "syn099",
+    "difficulty": "easy",
+    "question": "Synthetic multi-hop check 99: which river is linked to the birthplace of Pyotr Tchaikovsky?",
+    "gold_answer": "Votka River",
+    "context": [
+      {
+        "title": "Pyotr Tchaikovsky",
+        "text": "Pyotr Tchaikovsky was born in Votkinsk."
+      },
+      {
+        "title": "Votkinsk",
+        "text": "Votkinsk is linked to the Votka River."
+      }
+    ]
+  },
+  {
+    "qid": "syn100",
+    "difficulty": "medium",
+    "question": "Synthetic multi-hop check 100: which river is linked to the birthplace of Ada Lovelace?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is linked to the River Thames."
+      }
+    ]
+  }
+]

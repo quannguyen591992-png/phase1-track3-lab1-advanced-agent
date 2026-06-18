@@ -1,0 +1,322 @@
+[
+  {
+    "qid": "syn001",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is associated with the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn002",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Marie Curie was born?",
+    "gold_answer": "Vistula River",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was born in Warsaw."
+      },
+      {
+        "title": "Warsaw",
+        "text": "Warsaw is associated with the Vistula River."
+      }
+    ]
+  },
+  {
+    "qid": "syn003",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Albert Einstein was born?",
+    "gold_answer": "Danube River",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was born in Ulm."
+      },
+      {
+        "title": "Ulm",
+        "text": "Ulm is associated with the Danube River."
+      }
+    ]
+  },
+  {
+    "qid": "syn004",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Leonardo da Vinci was born?",
+    "gold_answer": "Arno River",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was born in Vinci."
+      },
+      {
+        "title": "Vinci",
+        "text": "Vinci is associated with the Arno River."
+      }
+    ]
+  },
+  {
+    "qid": "syn005",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Frida Kahlo was born?",
+    "gold_answer": "Magdalena River",
+    "context": [
+      {
+        "title": "Frida Kahlo",
+        "text": "Frida Kahlo was born in Coyoacan."
+      },
+      {
+        "title": "Coyoacan",
+        "text": "Coyoacan is associated with the Magdalena River."
+      }
+    ]
+  },
+  {
+    "qid": "syn006",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Nikola Tesla was born?",
+    "gold_answer": "Lika River",
+    "context": [
+      {
+        "title": "Nikola Tesla",
+        "text": "Nikola Tesla was born in Smiljan."
+      },
+      {
+        "title": "Smiljan",
+        "text": "Smiljan is associated with the Lika River."
+      }
+    ]
+  },
+  {
+    "qid": "syn007",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Grace Hopper was born?",
+    "gold_answer": "Hudson River",
+    "context": [
+      {
+        "title": "Grace Hopper",
+        "text": "Grace Hopper was born in New York City."
+      },
+      {
+        "title": "New York City",
+        "text": "New York City is associated with the Hudson River."
+      }
+    ]
+  },
+  {
+    "qid": "syn008",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Alan Turing was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is associated with the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn009",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Katherine Johnson was born?",
+    "gold_answer": "Greenbrier River",
+    "context": [
+      {
+        "title": "Katherine Johnson",
+        "text": "Katherine Johnson was born in White Sulphur Springs."
+      },
+      {
+        "title": "White Sulphur Springs",
+        "text": "White Sulphur Springs is associated with the Greenbrier River."
+      }
+    ]
+  },
+  {
+    "qid": "syn010",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Charles Darwin was born?",
+    "gold_answer": "River Severn",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was born in Shrewsbury."
+      },
+      {
+        "title": "Shrewsbury",
+        "text": "Shrewsbury is associated with the River Severn."
+      }
+    ]
+  },
+  {
+    "qid": "syn011",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Rosalind Franklin was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Rosalind Franklin",
+        "text": "Rosalind Franklin was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is associated with the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn012",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Isaac Newton was born?",
+    "gold_answer": "River Witham",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was born in Woolsthorpe."
+      },
+      {
+        "title": "Woolsthorpe",
+        "text": "Woolsthorpe is associated with the River Witham."
+      }
+    ]
+  },
+  {
+    "qid": "syn013",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Galileo Galilei was born?",
+    "gold_answer": "Arno River",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was born in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the Arno River."
+      }
+    ]
+  },
+  {
+    "qid": "syn014",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Jane Austen was born?",
+    "gold_answer": "River Test",
+    "context": [
+      {
+        "title": "Jane Austen",
+        "text": "Jane Austen was born in Steventon."
+      },
+      {
+        "title": "Steventon",
+        "text": "Steventon is associated with the River Test."
+      }
+    ]
+  },
+  {
+    "qid": "syn015",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where William Shakespeare was born?",
+    "gold_answer": "River Avon",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was born in Stratford-upon-Avon."
+      },
+      {
+        "title": "Stratford-upon-Avon",
+        "text": "Stratford-upon-Avon is associated with the River Avon."
+      }
+    ]
+  },
+  {
+    "qid": "syn016",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Virginia Woolf was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Virginia Woolf",
+        "text": "Virginia Woolf was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is associated with the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "syn017",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Mark Twain was born?",
+    "gold_answer": "Mississippi River",
+    "context": [
+      {
+        "title": "Mark Twain",
+        "text": "Mark Twain was born in Florida Missouri."
+      },
+      {
+        "title": "Florida Missouri",
+        "text": "Florida Missouri is associated with the Mississippi River."
+      }
+    ]
+  },
+  {
+    "qid": "syn018",
+    "difficulty": "hard",
+    "question": "What river flows through or near the city where Toni Morrison was born?",
+    "gold_answer": "Black River",
+    "context": [
+      {
+        "title": "Toni Morrison",
+        "text": "Toni Morrison was born in Lorain."
+      },
+      {
+        "title": "Lorain",
+        "text": "Lorain is associated with the Black River."
+      }
+    ]
+  },
+  {
+    "qid": "syn019",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Pablo Picasso was born?",
+    "gold_answer": "Guadalmedina River",
+    "context": [
+      {
+        "title": "Pablo Picasso",
+        "text": "Pablo Picasso was born in Malaga."
+      },
+      {
+        "title": "Malaga",
+        "text": "Malaga is associated with the Guadalmedina River."
+      }
+    ]
+  },
+  {
+    "qid": "syn020",
+    "difficulty": "medium",
+    "question": "What river flows through or near the city where Claude Monet was born?",
+    "gold_answer": "Seine River",
+    "context": [
+      {
+        "title": "Claude Monet",
+        "text": "Claude Monet was born in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the Seine River."
+      }
+    ]
+  }
+]
